@@ -1,0 +1,2 @@
+Registration form should contain :
+first name ,last name ,Aadhar number, mobile number, mail id etc
