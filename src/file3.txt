@@ -1,0 +1,3 @@
+Creating data on new Branch
+
+Checking what type of merging it will creates.
